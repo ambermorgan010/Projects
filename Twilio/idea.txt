@@ -1,0 +1,6 @@
+AUTHOR: Amber Morgan
+
+This could be used in real life to make those common texting bots.
+It can gather information from you to confirm appointments, deliveries
+payments, and other things. It makes it easier for companies to deal
+with multiple people efficiently rather than texting everyone by hand.

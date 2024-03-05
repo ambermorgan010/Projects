@@ -1,0 +1,28 @@
+TEAMMATE NAMES: 
+
+Program 1
+---------
+
+What is the different between red and blue variables?
+TODO
+
+
+Program 2
+---------
+
+TODO: trace the program 3 times in prog2_trace.rtf
+
+What does this program compute?
+TODO
+
+TODO: rewrite the code with improved variables and user interaction
+
+
+Program 3
+---------
+
+TODO: list 3 example sets of inputs and the output you expect to receive with them
+
+TODO: list out 5 errors and say if they were syntax, logic, or runtime errors
+
+TODO: list 3 extremes or ridiculous ideas to test to make sure our program is bullet-proof (one day)

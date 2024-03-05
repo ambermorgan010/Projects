@@ -1,0 +1,13 @@
+8		read_airport_data() function
+	3	Gets each column from each line in the file, including stripping the str columns
+	2	Converts each column to the appropriate data type
+	2	Adds the airport information to the dictionary
+	1	Closes file
+4		make_dictionary_for_city_lookup()function
+	1	Goes through each airport in the dictionary
+	3	Creates a list for each city containing the airport names
+5		get_city_name_from_user() function
+	2	Appropriate prompts (nicely formatted and explicit)
+	3	Working validation including capitalization issues
+4		get_airport_info() function
+4		bar_plot() function

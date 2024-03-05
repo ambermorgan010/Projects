@@ -1,0 +1,18 @@
+8		roman_numeral_to_list function
+	1	Setting up dictionary that maps Roman numeral symbols to values
+	1	Handles capitalization
+	2	Checks that each symbol is valid
+	2	Uses dictionary to convert each symbol into a number
+	2	Returns list of all values or an empty list if there is a problem
+5		compute_roman_numeral_value function
+	1	Keeps a running total
+	2	Loops over indices of list
+	2	Adds or subtracts current value appropriately
+4		decode_roman_numeral function
+	2	Calls roman_numeral_to_list and checks return value
+	2	Calls compute_roman_numeral_value
+8		Tests
+	3	10+ tests for roman_numeral_to_list that test all edge cases
+	3	10+ tests for compute_roman_numeral_value that test all edge cases
+	2	10+ tests for decode_roman_numeral that test all edge cases
+25		Total

@@ -1,0 +1,6 @@
+08:20)apples:5,bananas:3
+08:55)pears:3,milk:2,peanut butter:1
+09:10)oranges:35,apples:21,bananas:7
+12:30)apples:10,pears:2,napkins:1,orange juice:2
+14:58)bananas:58,pears:2
+19:34)pears:1

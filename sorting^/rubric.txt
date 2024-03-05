@@ -1,0 +1,9 @@
+Step 3: Hypotheses		5x	1 pt per testable hypothesis
+Step 4: Inputs			2x	1 pt per correct input including user-friendly prompt
+Step 5: Gather Data		3x	2 pts per reasonable data [graded from plot.py]
+Step 6: Data Analysis		2 pts for insertion vs merge sort analysis
+							2 pts for size for 3 seconds analysis
+							2 pts for rankings
+							3 pts for correctly plotting the data
+Step 7: Conclusions		5x  0.5 pt per appropriate conclusion
+							0.5 pt for theorizing about Timsort

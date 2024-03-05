@@ -1,0 +1,11 @@
+Part 1: Explain the difference in colors            +2
+Part 2: 3 Program Traces                            +2 (x3)
+        Describing what the program computes        +2
+        Improved code: variables properly renamed   +0.5 (x5)
+        Improved code: inputs have nice prompts     +0.5 (x2)
+        Improved code: output is well labelled      +1.5
+        Improved code: program header               +1
+Part 3: 5 bugs found and described in answers.txt   +0.5 (x5)
+        5 bugs fixed                                +0.5 (x5)
+        3 examples listed off                       +0.5 (x3)
+        5 odd-ball things to test in the future     +0.5 (x5)

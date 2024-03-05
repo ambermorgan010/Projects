@@ -1,0 +1,18 @@
+3		read_words function
+	2	Reads file word-by-word into a list
+	1	Closes file
+8		build_bigrams function
+	4	Handles the situation where the current word is not already a key
+	4	Appends next word to list associated with current word
+8		generate_text_from_bigrams function
+	3	Randomly picks the starting word from the dictionary keys
+	2	Repeats adding on new words the correct number of times (accounting for the first word)
+	3	Randomly picks the next word from the words that follow the current word
+3		words_to_text function
+3		main function
+
+
+Extra Credit
+1		Have your story spoken instead of printed
+3		build_trigrams function
+2		generate_text_from_trigrams function

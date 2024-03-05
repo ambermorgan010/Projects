@@ -1,0 +1,23 @@
+Penalties
+-1 per program		No full teammate names in program header
+-1 per occurrence	Bad choice of variable names
+-1 per occurrence	Use of elif or if that should be an else or elif respectively
+-3 per occurrence	Duplication of code instead of calling function
+
+Points
++2	Finishing random_sandbox
++3	Fixing get_guess_outcome()
++3	get_user_guess()
++4	thinking_of_a_number()
++2  display_result()
+	play_one_game():
++1	     thinks of number
++2	     loops until number is correctly guessed
++2       getting user guesses and displaying outcome
++3       properly updates bounds after each guess
++1	     displays the results
+	main():
++1	     get user’s name
++1	     calls play_one_game() properly
+
++3 E.C. for implementing playing multiple games including the ask_player_to_play_again() function

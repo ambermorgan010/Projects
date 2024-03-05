@@ -1,0 +1,10 @@
+1   create_person(): creates and returns a dictionary with the appropriate keys
+2   create_person(): person is marked as stationary based on given probability
+2   create_person(): current location of person is randomly in the “world”
+2   create_person(): destination location of person is randomly in the “world” but only if not stationary
+1   move_person(): only updates non-stationary people
+3   move_person(): updates the x and y coordinates to be closer to the destination 3 move_person(): at end checks if the person has reached their destination (both x and y), and if so gives them a new random destination 2 plot: creates lists of all x and y values respectively
+1   plot(): calls plt.scatter() once making sure to use the given color
+2   Creates a list of containing a population number of people using the create_person() function
+2   Moves all people during each simulation step using the move_person ()function 2 Shows a plot title that contains the current simulation step number
+2   get_pos_int_from_user(): user input and full validation

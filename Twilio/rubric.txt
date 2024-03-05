@@ -1,0 +1,14 @@
++2  Able to send a text from Python to phone
++2  Able to receive a text from phone to Python
++2  str_demo.py completed
++2  format_phone_number() function
++3  Phone number is displayed in terminal nicely upon text reception (uses the format_phone_number() function along with print())
++3  12 additional tests for the find_acronym_definition() function – covers all 5 different acronyms, different capitalizations, with and without messages, and messages with no acronym
++4  find_acronym_definition() function – looks for at least 5 different acronyms in the given string, returns two strings
++3  Completion of receive_message() to reply with the results of using find_acronym_definition()
++2  format_phone_number() and find_acronym_definition() functions have documentation
++3  Idea for use of this system, 3-5 complete sentences
+
+Penalties
+For each bad variable name: -1 pt
+For each missing author name: -1 pt

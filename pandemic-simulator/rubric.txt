@@ -1,0 +1,9 @@
+2	distance() function
+5	spread_infection() function
+5	who_will_recover() function
+1	Plots the dots in distinct colors
+1	Updates the Y value lists
+6	Upon completion plots the complete results
+5	Hypothesis, experiment, data, and summary write up
+
++2	EC: Use stacked plot instead of line plots for final graph

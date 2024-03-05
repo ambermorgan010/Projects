@@ -1,0 +1,77 @@
+#1 strip_all_strings(['a ', ' b', 'c', ' d '])
+Returns  ['a', 'b', 'c', 'd']
+
+#2
+my_list = ['a ', ' b', 'c', ' d ']
+strip_all_strings_inplace(my_list)
+my_list is now  ['a', 'b', 'c', 'd']
+
+#3
+my_data = {5:['hi'], 'foo':['bar']}
+append_value_to_key(my_data, 5, 'hello')
+append_value_to_key(my_data, 5, 'world')
+append_value_to_key(my_data, 'code', 'neat')
+my_data is now  {5: ['hi', 'hello', 'world'], 'foo': ['bar'], 'code': ['neat']}
+
+#4
+my_data = {'blue': 7, 'red': 7, 'green': 16, 'yellow': 30}
+add_value_to_key(my_data, 'red', 6)
+add_value_to_key(my_data, 'green', 7)
+add_value_to_key(my_data, 'purple', 0)
+add_value_to_key(my_data, 'orange', 100)
+my_data is now  {'blue': 7, 'red': 13, 'green': 23, 'yellow': 30, 'purple': 0, 'orange': 100}
+
+#5
+diff([5, 4, 1, 6, 2, 1, 0, -5, 6, 8])
+Returns  [-1, -3, 5, -4, -1, -1, -5, 11, 2]
+
+#6
+get_word_lengths('hello world foo bar this. is. coding.')
+Returns  [5, 5, 3, 3, 5, 3, 7]
+
+#7
+multiplication_table(10)
+   0   0   0   0   0   0   0   0   0   0   0
+   0   1   2   3   4   5   6   7   8   9  10
+   0   2   4   6   8  10  12  14  16  18  20
+   0   3   6   9  12  15  18  21  24  27  30
+   0   4   8  12  16  20  24  28  32  36  40
+   0   5  10  15  20  25  30  35  40  45  50
+   0   6  12  18  24  30  36  42  48  54  60
+   0   7  14  21  28  35  42  49  56  63  70
+   0   8  16  24  32  40  48  56  64  72  80
+   0   9  18  27  36  45  54  63  72  81  90
+   0  10  20  30  40  50  60  70  80  90 100
+
+#8
+random_numbers(0, 1000, 100)
+Returns  [730, 535, 230, 351, 553, 631, 497, 609, 30, 124, 50, 274, 555, 703, 363, 137, 828, 652, 152, 297, 749, 338, 670, 807, 984, 113, 176, 855, 226, 786, 130, 455, 310, 787, 356, 68, 583, 387, 785, 819, 56, 226, 286, 818, 195, 867, 973, 376, 983, 937, 822, 17, 315, 174, 178, 926, 648, 335, 295, 409, 681, 789, 459, 132, 824, 168, 164, 505, 438, 342, 39, 287, 976, 559, 191, 969, 631, 51, 992, 546, 109, 724, 136, 128, 75, 213, 302, 959, 474, 86, 752, 843, 929, 198, 222, 832, 499, 976, 372, 845]
+
+#9
+local_maxima([1, 2, 4, 5, 3, 6, 7, 2, 1, 4, 3, 5])
+Returns  [5, 7, 4]
+
+#10
+get_positions('Mississippi', 'i')
+Returns  [1, 4, 7, 10]
+
+#11
+count_letters('Mississippi.m; 0')
+Returns  {'m': 2, 'i': 4, 's': 4, 'p': 2}
+
+#12
+ball_dance(['john', 'mary', 'paul', 'gloria'])
+Returns  [['john', 'mary'], ['john', 'paul'], ['john', 'gloria'], ['mary', 'paul'], ['mary', 'gloria'], ['paul', 'gloria']]
+
+#13
+addition('4+5+19+0+2')
+Returns  30
+
+#14
+get_duplicates(['hello', 'world', 'foo', 'hello', 'World', 'bar', 'foo'])
+Returns  ['hello', 'foo']
+
+#15
+common_values(['a', 'b', 'c', 'r', 'b', 2, 8, 4, 'x'], ['a', 'd', 'b', 4, 'e', 'f', 'c', 4, 'y'])
+Returns  ['a', 'b', 'c', 4]
+

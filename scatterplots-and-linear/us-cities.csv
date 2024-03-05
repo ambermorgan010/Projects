@@ -1,0 +1,54 @@
+Albuquerque,551813,35.0841034,-106.6509851,Los Angeles,Las Vegas,Phoenix,Denver,Oklahoma City,El Paso
+Allentown,120443,40.6084,-75.4902,Philadelphia,Baltimore,Cleveland,Columbus,Charleston,Syracuse,New York
+Atlanta,432135,33.7490987,-84.3901849,Nashville,Birmingham,Mobile,Tallahassee,Charlotte,Jacksonville
+Baltimore,620889,39.2908608,-76.6108073,Charleston,Washington,Philadelphia,Allentown
+Birmingham,212157,33.5207,-86.8025,Jackson,Nashville,Mobile,Atlanta
+Boise,209280,43.5988375,-116.243255,Portland,Salt Lake City
+Boston,630645,42.3604823,-71.0595678,Syracuse,New York
+Buffalo,260525,42.8864468,-78.8783689,Cleveland,Syracuse
+Charleston,21940,32.7876012,-79.9402728,Indianapolis,Nashville,Cleveland,Columbus,Raleigh,Washington,Baltimore,Louisville,Charlotte,Allentown
+Charlotte,756204,35.2270869,-80.8431268,Atlanta,Raleigh,Charleston,Nashville
+Cheyenne,60339,41.1399814,-104.8202462,Helena,Salt Lake City,Denver,Omaha
+Chicago,2705627,41.8755546,-87.6244212,Omaha,Milwaukee,Saint Louis,Indianapolis,Detroit,Cleveland
+Cleveland,41926,41.5051613,-81.6934446,Detroit,Chicago,Columbus,Charleston,Allentown,Buffalo
+Columbus,23554,39.9622601,-83.0007065,Nashville,Indianapolis,Cleveland,Charleston,Louisville,Allentown
+Dallas,1317929,32.7761963,-96.7968994,El Paso,Oklahoma City,San Antonio,Houston,Jackson,Little Rock
+Denver,619390,39.7391536,-104.9847034,Cheyenne,Albuquerque,Las Vegas,Oklahoma City,Kansas City
+Detroit,702149,42.3486635,-83.0567375,Chicago,Indianapolis,Cleveland
+El Paso,665503,31.8111305,-106.5013493,Tucson,Albuquerque,San Antonio,Dallas
+Helena,28725,46.5927122,-112.036109,Cheyenne,Minneapolis
+Houston,2129784,29.7589382,-95.3676974,Dallas,San Antonio,Mobile
+Indianapolis,827346,39.7683331,-86.1583502,Chicago,Saint Louis,Detroit,Louisville,Columbus,Charleston
+Jackson,175448,32.2990384,-90.1847691,Dallas,Memphis,Birmingham
+Jacksonville,829543,30.3321838,-81.655651,Miami,Tallahassee,Atlanta,Charlotte,Raleigh
+Kansas City,146281,39.0844687,-94.5630298,Denver,Omaha,Oklahoma City,Saint Louis
+Las Vegas,588257,36.1662859,-115.149225,Salt Lake City,Los Angeles,Phoenix,Albuquerque,Denver
+Little Rock,195279,34.7464809,-92.2895948,Oklahoma City,Memphis,Dallas
+Los Angeles,3826423,34.053717,-118.2427266,San Diego,Sacramento,San Francisco,Las Vegas,Albuquerque,Phoenix
+Louisville,612780,38.225333,-85.741667,Indianapolis,Nashville,Saint Louis,Charleston,Columbus
+Memphis,655975,35.1490215,-90.0516285,Nashville,Saint Louis,Little Rock,Jackson
+Miami,412438,25.7742658,-80.1936589,Jacksonville,Tallahassee
+Milwaukee,597435,43.0349931,-87.922497,Minneapolis,Chicago
+Minneapolis,388253,44.9772995,-93.2654692,Helena,Omaha,Milwaukee
+Mobile,194806,30.694356,-88.0430541,Birmingham,Houston,Tallahassee,Atlanta
+Nashville,684410,36.1627,-86.7816,Columbus,Charleston,Saint Louis,Memphis,Louisville,Birmingham,Atlanta,Raleigh,Charlotte
+New York,8287238,40.7305991,-73.9865812,Allentown,Boston
+Oklahoma City,589896,35.4729886,-97.5170536,Kansas City,Denver,Albuquerque,Little Rock,Dallas
+Omaha,429604,41.2587317,-95.9378732,Minneapolis,Cheyenne,Kansas City,Chicago
+Philadelphia,1539313,39.952335,-75.163789,Baltimore,Allentown,New York
+Phoenix,1465114,33.4467681,-112.0756724,Los Angeles,Las Vegas,Tucson,Albuquerque
+Portland,593859,45.5202471,-122.6741949,Boise,Seattle,Sacramento
+Raleigh,414135,35.7804015,-78.6390779,Nashville,Charleston,Charlotte,Jacksonville,Washington,Virginia Beach
+Sacramento,471625,38.5815719,-121.4943996,San Francisco,Portland,Salt Lake City,Los Angeles,San Jose
+Saint Louis,319188,38.6272733,-90.1978889,Kansas City,Chicago,Nashville,Memphis,Indianapolis,Louisville
+Salt Lake City,188158,40.7670126,-111.8904308,Boise,Helena,Sacramento,Cheyenne,Las Vegas
+San Antonio,1359174,29.4246002,-98.4951405,Dallas,El Paso,Houston
+San Diego,1321016,32.7174209,-117.1627714,Los Angeles,Tucson
+San Francisco,816239,37.7792768,-122.4192704,Sacramento,San Jose
+San Jose,971495,37.3438502,-121.8831349,San Francisco,Sacramento,Los Angeles
+Seattle,622175,47.6038321,-122.3300624,Portland,Helena
+Syracuse,144457,43.0481221,-76.1474244,Buffalo,Allentown,Boston
+Tallahassee,183442,30.4380832,-84.2809332,Mobile,Atlanta,Miami,Jacksonville
+Tucson,524192,32.2217422,-110.9264759,Phoenix,San Diego,El Paso
+Virginia Beach,442984,36.7953025,-76.05092502,Raleigh,Washington
+Washington,620427,38.8949549,-77.0366456,Raleigh,Virginia Beach,Charleston,Baltimore
